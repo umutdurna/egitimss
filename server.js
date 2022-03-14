@@ -9,7 +9,7 @@ var wikiUrls1 = "";
 // pull request
 //umut önce umut sonra maine 
 // umut tekrardan geliyor
-
+//ASD:DASDASASD
 // goooaosdodasoasd
 rp(url)
   .then(function(html){
