@@ -8,6 +8,7 @@ var wikiUrls1 = "";
 // umut recep durna
 // pull request
 //umut önce umut sonra maine 
+// umut tekrardan geliyor
 rp(url)
   .then(function(html){
     //success!
