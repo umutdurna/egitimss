@@ -10,6 +10,7 @@ var wikiUrls1 = "";
 //umut önce umut sonra maine 
 // umut tekrardan geliyor
 //ASD:DASDASASD
+// son last
 // goooaosdodasoasd
 rp(url)
   .then(function(html){
