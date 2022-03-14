@@ -9,6 +9,8 @@ var wikiUrls1 = "";
 // pull request
 //umut önce umut sonra maine 
 // umut tekrardan geliyor
+
+// goooaosdodasoasd
 rp(url)
   .then(function(html){
     //success!
