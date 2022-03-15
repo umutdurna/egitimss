@@ -6,6 +6,8 @@ var port = 3000;
 var app = express();
 var wikiUrls1 = "";
 // umutss kalsın
+// umut recep durna
+// fenerbahce adamdır
 rp(url)
   .then(function(html){
     //success!
