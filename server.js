@@ -5,15 +5,7 @@ const express = require('express');
 var port = 3000;
 var app = express();
 var wikiUrls1 = "";
-// umutss
-// wwwe // umut12345 git com
-// umut recep durna
-// pull request
-//umut önce umut sonra maine 
-// umut tekrardan geliyor
-//ASD:DASDASASD
-// son last
-// goooaosdodasoasd
+// umutss kalsın
 rp(url)
   .then(function(html){
     //success!
