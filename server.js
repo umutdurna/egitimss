@@ -6,7 +6,7 @@ var port = 3000;
 var app = express();
 var wikiUrls1 = "";
 // umutss
-// wwwe
+// wwwe // umut12345 git com
 rp(url)
   .then(function(html){
     //success!
