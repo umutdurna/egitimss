@@ -5,9 +5,9 @@ const express = require('express');
 var port = 3000;
 var app = express();
 var wikiUrls1 = "";
-// umutss kalsın
-// umut recep durna
-// fenerbahce adamdır
+var stash = false;
+var stash1 = true;
+var stash2 = "umutrecep";
 rp(url)
   .then(function(html){
     //success!
